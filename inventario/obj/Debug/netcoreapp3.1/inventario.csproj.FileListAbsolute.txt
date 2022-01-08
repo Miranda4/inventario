@@ -1,0 +1,54 @@
+C:\Users\miran\Desktop\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.exe
+C:\Users\miran\Desktop\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.deps.json
+C:\Users\miran\Desktop\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.json
+C:\Users\miran\Desktop\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.dev.json
+C:\Users\miran\Desktop\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.dll
+C:\Users\miran\Desktop\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form1.resources
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.GenerateResource.cache
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.dll
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.genruntimeconfig.cache
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form2.resources
+C:\Users\miran\Desktop\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form3.resources
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.exe
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.deps.json
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.json
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.dev.json
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.dll
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form1.resources
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form2.resources
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form3.resources
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.GenerateResource.cache
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.dll
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\miran\Desktop\proyecto inventario\inventario\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.genruntimeconfig.cache
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.exe
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.deps.json
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.json
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.dev.json
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.dll
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\bin\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form1.resources
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form2.resources
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.Form3.resources
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.GenerateResource.cache
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.dll
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\miran\Desktop\proyecto inventario\inventarioWOI\inventario\inventario\obj\Debug\netcoreapp3.1\inventario.genruntimeconfig.cache
